@@ -1,5 +1,4 @@
 # 004-C104-MeanMedianMode
-# This is a python script made by @somePythonProgrammer 
 # for a WhiteHat Junior project.
 
 import csv
